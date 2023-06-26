@@ -1,0 +1,7 @@
+BasedOnStyle: Chromium
+AccessModifierOffset: -4
+IndentWidth: 4
+IndentExternBlock: NoIndent
+IndentCaseLabels: false
+EmptyLineAfterAccessModifier: Never
+EmptyLineBeforeAccessModifier: Always
